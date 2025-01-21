@@ -19,3 +19,5 @@ Uso:
 4. Oprime el botón "Sortear amigo" y de manera aleatoria se sorteara un amigo de la lista
 
 Juega y disfruta!!
+
+URL para jugar:
